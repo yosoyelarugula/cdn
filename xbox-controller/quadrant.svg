@@ -1,0 +1,32 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 39" width="39" height="39">
+	<title>quadrant</title>
+	<defs>
+		<image  width="29" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAMAAABhTZc9AAAAAXNSR0IB2cksfwAAALdQTFRFANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/ANL/bvewpwAAAD10Uk5TAAECAwQFBgcJCw0ODxEVGRsdChAWJCkuMDEYIi03P0VJSz5MWGFnaVFkc36FiHmMmqOmobK8v8TO0tre4mXrr7sAAADHSURBVHichdMBDoMgDADAlQIa3f9fOhcFSgcF5jIjNMYQzlqFAo9ewHXMlxkoIyjG7ZGiAOlKIak50v2raV6pyoIxsrC8L5lSeCrFmL0UBMAnAOnMGQMyvyhniyKuE5TgEsdGVFVpXCZaTn3j8aYQRZXSRq/WnurcFnyIURS1mWZrTVPv3H74QFkBdFVdNFQNzFlNU8xKTb1oKttUAcemqXDT+V/3X73P7dftfnP/fwdr1V/nwR5197ffG4O+GvTkoJ8HZ+EmPtT4JC37E4aqAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #00ff24 } 
+		.s1 { fill: #010101 } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<g>
+		<g>
+			<path fill-rule="evenodd" class="s0" d="m10.2 29.3h8.5v8.5h-8.5z"/>
+			<path class="s1" d="m19.3 28.8h-9.6v9.5h9.5v-9.5zm-1 1v7.5h-7.5v-7.5z"/>
+		</g>
+		<g>
+			<use  href="#img1" x="0" y="0"/>
+			<g>
+				<path fill-rule="evenodd" class="s2" d="m10.2 10.5h8.5v8.5h-8.5z"/>
+				<path class="s1" d="m19.3 10h-9.6v9.5h9.5v-9.5zm-1 1v7.5h-7.5v-7.5z"/>
+			</g>
+		</g>
+		<g>
+			<path fill-rule="evenodd" class="s0" d="m29 10.5h8.5v8.5h-8.5z"/>
+			<path class="s1" d="m38 10h-9.5v9.5h9.5zm-1 1v7.5h-7.5v-7.5z"/>
+		</g>
+		<g>
+			<path fill-rule="evenodd" class="s0" d="m29 29.3h8.5v8.5h-8.5z"/>
+			<path class="s1" d="m38 28.8h-9.5v9.5h9.5zm-1 1v7.5h-7.5v-7.5z"/>
+		</g>
+	</g>
+</svg>
