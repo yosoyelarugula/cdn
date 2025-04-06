@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/base.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/base.svg);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -12,7 +12,7 @@
 }
 
 .xbox.disconnected {
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/disconnected.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/disconnected.svg);
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/trigger.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/trigger.svg);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/bumper.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/bumper.svg);
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/quadrant.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/start-select.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/abxy.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/abxy.svg);
     width: 48px;
     height: 48px;
 }
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/stick.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@main/xbox-controller/dpad.svg);
+    background: url(https://cdn.jsdelivr.net/gh/yosoyelarugula/cdn@Master/xbox-controller/dpad.svg);
     position: absolute;
     opacity: 0;
 }
